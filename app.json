@@ -1,0 +1,12 @@
+{
+  "name": "prak03",
+  "displayName": "prak03",
+  "expo": {
+    "name": "prak03",
+    "slug": "prak03",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
